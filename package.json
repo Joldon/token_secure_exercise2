@@ -1,0 +1,27 @@
+{
+  "name": "token_secure_exercise2",
+  "version": "1.0.0",
+  "description": "secure token exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joldon/token_secure_exercise2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joldon/token_secure_exercise2/issues"
+  },
+  "homepage": "https://github.com/Joldon/token_secure_exercise2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
